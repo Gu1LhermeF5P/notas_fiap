@@ -1,3 +1,6 @@
+//RM557648 Guilherme Francisco
+//RM555136 Larissa de Freitas
+
 import React, { useState } from 'react';
 import { View, Text, TextInput, TouchableOpacity, Image, StyleSheet, Keyboard } from 'react-native';
 
